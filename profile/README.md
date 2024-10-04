@@ -7,7 +7,7 @@ to defending LLMs from adversarial attacks.
 Adversarial attacks on LLMs is being actively worked on by major AI companies. A very good example of this work
 is the recent paper by researchers at CMU and [Google Deep Mind](https://deepmind.google/)
 ["Universal and Transferable Adversarial Attacks on Aligned Language Models"](https://arxiv.org/abs/2307.15043).
-Their work can be found under the GitHub organization "llm-attacks" [here](https://github.com/llm-attacks].
+Their work can be found under the GitHub organization "llm-attacks" [here](https://github.com/llm-attacks).
 
 <!--
 
